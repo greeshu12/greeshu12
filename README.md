@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=4500&pause=700&color=F790EA&background=D40DFF00&width=435&lines=Hi+there%F0%9F%91%8B%2C+Greeshuu%F0%9F%91%80+here!!!" alt="Typing SVG" /></a>
-
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=F743BD&width=435&lines=Hy%2C+every1+I+am+Greeshu+%3A-)+Here!!;+Talks+about+python+and+SQl+%E2%9E%A1%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
+</p>
 <h2>👀 My github Stats</h2>
 
 <div>
